@@ -1,3 +1,14 @@
+#Intro
+Hello , this is an amazon clone I have made using reactJS for the frontend and firebase for the backend.
+I have used @material-ui/icons for the icons
+React router for routing between the home , login , checkout and orders page
+React context API for managing state between objects , avoiding prop drilling
+Stripe for test payments
+react-moment for managing the date formats
+Firebase for user authentication with email and password
+Firestore for storing user past orders
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
