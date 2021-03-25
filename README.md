@@ -1,4 +1,4 @@
-#Intro
+# Intro
 Hello , this is an amazon clone I have made using reactJS for the frontend and firebase for the backend.
 I have used @material-ui/icons for the icons
 React router for routing between the home , login , checkout and orders page
